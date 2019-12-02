@@ -1,0 +1,15 @@
+STEP 1. ionic start <project name> --type=<ionic version>
+
+type= ionic 1 [ ionic1 ]
+type= ionic 3 [ ionic-angular]
+type= ionic 4 [ angular ]
+
+STEP 2. choose project template from menu options
+
+tabs
+tutorial 
+sidemenu
+blank
+super
+
+STEP 3. finish
